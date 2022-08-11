@@ -1,0 +1,19 @@
+/* #intro_img {
+  width: auto;
+} */
+#intro_img{
+  width: 100%;
+  height: auto;
+}
+.logo {
+  font-size: 100px;
+  /* width: 250px;
+  height: 250px; */
+}
+
+/* @media screen and ( max-width:999px) {
+  #text_color li a{
+    color:#fff;
+  }
+  
+} */
